@@ -1,4 +1,6 @@
-## Hi there 👋
+## 👋 Olá! Muito prazer, meu nome é Luca Bempack 
+
+Ciências Econômicas (FEA USP) | Econometria Financeira | Finanças Quantitativas | Inferência Causal | Previsão de Séries Temporais
 
 <!--
 **lbempack/lbempack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
