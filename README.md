@@ -55,10 +55,6 @@ Previsão da Inflação Brasileira — VAR e XGBoost
 
 Aplicação de modelos de Vetores Autorregressivos (VAR) e XGBoost para previsão do IPCA, comparando os resultados de ambas as abordagens com as mesmas variáveis e período de análise.
 
-Pairs Trading e Cointegração
-
-Desenvolvimento e avaliação de uma estratégia de arbitragem estatística baseada em cointegração, com seleção de pares de ativos e testes dentro e fora da amostra.
-
 Elasticidade-Preço da Demanda de Abacates
 
 Estudo econométrico aplicado ao mercado da Califórnia, estimando e comparando a elasticidade-preço da demanda de abacates convencionais e orgânicos.
@@ -67,14 +63,9 @@ Estudo econométrico aplicado ao mercado da Califórnia, estimando e comparando 
 
 Bacharelado em Ciências Econômicas — FEA-USP
 
-CFA Program — Level I aprovado
-
 Machine Learning Specialization — Stanford Online & DeepLearning.AI
 
 Investment Foundations Certificate — CFA Institute
 
-📫 Contato
-
-Tenho interesse em trocar conhecimentos e experiências sobre mercado financeiro, investimentos, econometria e métodos quantitativos.
 
 LinkedIn: [Inserir link do perfil]
